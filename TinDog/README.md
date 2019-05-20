@@ -3,6 +3,6 @@ TinDog
 
  - tinder for your dog.
 
-- static page
+- responsive static page
 
 - made with CSS, HTML, Bootstrap.
