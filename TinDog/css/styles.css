@@ -1,0 +1,138 @@
+#title{
+  background-color: #ff4c68;
+}
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  color: white;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+h2{
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.container-fluid{
+  padding: 3% 15% 7%;
+
+}
+#upper-div{
+  padding-top: 10%;
+
+}
+.navbar-brand {
+    color: white;
+    font-size: 40px;
+    font-weight: 400;
+    font-family: "ubuntu";
+}
+.navbar-nav > li{
+  padding-left:30px;
+  padding-right:30px;
+  font-size: 20px;
+}
+#phone-img{
+
+  transform: rotate(25deg);
+  width: 300px;
+  top: 70px;
+  position: absolute;
+
+
+}
+body{
+  font-family: "Montserrat", sans-serif;
+}
+#features{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: white;
+  position: relative;
+
+}
+.icon{
+  color: #ef8172;
+  padding-bottom: 30px;
+}
+.icon:hover{
+  color: #ff4c68;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem
+}
+p{
+  color: #8f8f8f;
+}
+.rows-boxes{
+  padding: 5%;
+}
+
+#testimonials{
+
+  text-align: center;
+  background-color: #ef8172;
+  color: white;
+}
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+.pricing-col{
+  padding: 3% 2%;
+}
+@media (max-width: 1028px) {
+
+    #phone-img {
+      position: static;
+      transform: rotate(0);
+    }
+
+    #title{
+      text-align: center;
+    }
+
+}
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+
+}
+#h3-cta{
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  color: white;
+  padding: 7% 13% 5%;
+}
+.apple-android{
+  margin: auto 10px 100px;
+}
+#footer{
+  text-align: center;
+  background-color: fff#;
+  margin: 100px;
+}
+.contact-buttons{
+  padding: 20px 10px;
+}
